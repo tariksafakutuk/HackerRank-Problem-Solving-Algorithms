@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-1-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-1-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-2-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-11-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Kotlin-blue.svg">
 </p>
 
@@ -24,6 +24,7 @@ This repository contains the challenges of [Problem-Solving (Algorithms)](https:
 | Subdomain | Challenge | Solution | Difficulty | Max Score | Obtained Score | 
 |:----------|:----------|:--------:|:----------:|:---------:|:--------------:|
 | Warmup    | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/solveMeFirst/Solution.kt) | Easy | 1 | 1 |
+| Warmup    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/simpleArraySum/Solution.kt) | Easy | 10 | 10 |
 
 
 ## Author
