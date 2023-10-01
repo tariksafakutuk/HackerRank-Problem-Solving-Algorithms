@@ -17,6 +17,7 @@ This repository contains the challenges of [Problem-Solving (Algorithms)](https:
 
 
 ## Index
+- [Warmup](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/tree/master/src/main/kotlin/warmup) 👈
 
 
 ## Content
