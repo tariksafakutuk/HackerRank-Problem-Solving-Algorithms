@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-4-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-31-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-5-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-41-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Kotlin-blue.svg">
 </p>
 
@@ -27,6 +27,7 @@ This repository contains the challenges of [Problem-Solving (Algorithms)](https:
 | Warmup    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/simpleArraySum/Solution.kt) | Easy | 10 | 10 |
 | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/compareTriplets/Solution.kt) | Easy | 10 | 10 |
 | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/aVeryBigSum/Solution.kt) | Easy | 10 | 10 |
+| Warmup    | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/diagonalDifference/Solution.kt) | Easy | 10 | 10 |
 
 
 ## Author
