@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-8-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-71-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-9-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-81-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Kotlin-blue.svg">
 </p>
 
@@ -31,6 +31,7 @@ This repository contains the challenges of [Problem-Solving (Algorithms)](https:
 | Warmup    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/plusMinus/Solution.kt) | Easy | 10 | 10 |
 | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/staircase/Solution.kt) | Easy | 10 | 10 |
 | Warmup    | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/miniMaxSum/Solution.kt) | Easy | 10 | 10 |
+| Warmup    | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/birthdayCakeCandles/Solution.kt) | Easy | 10 | 10 |
 
 
 ## Author
