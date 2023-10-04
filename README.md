@@ -11,13 +11,14 @@
 </p>
 
 
-# HackerRank Problem-Solving Questions (Algorithms)
+# HackerRank Problem Solving (Algorithms) Challenges
 
-This repository contains the challenges of [Problem-Solving (Algorithms)](https://www.hackerrank.com/domains/algorithms) section of [HackerRank](https://www.hackerrank.com).
+This repository contains the challenges of [Problem Solving (Algorithms)](https://www.hackerrank.com/domains/algorithms) section of [HackerRank](https://www.hackerrank.com).
 
 
 ## Index
 - [Warmup](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/tree/master/src/main/kotlin/warmup)
+- [Implementation](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/tree/master/src/main/kotlin/implementation)
 
 
 ## Content

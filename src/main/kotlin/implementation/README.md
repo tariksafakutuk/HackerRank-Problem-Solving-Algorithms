@@ -5,19 +5,20 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-0-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-0-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-96-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Kotlin-blue.svg">
 </p>
 
 
-# HackerRank Problem Solving (Algorithms) Questions 
+# HackerRank Problem Solving (Algorithms) Challenges
 
 This repository contains the challenges of [Problem Solving (Algorithms)](https://www.hackerrank.com/domains/algorithms) section of [HackerRank](https://www.hackerrank.com).
 
 
 ## Index
 - [Warmup](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/tree/master/src/main/kotlin/warmup)
+- [Implementation](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/tree/master/src/main/kotlin/implementation) 👈
 
 
 ## Content
