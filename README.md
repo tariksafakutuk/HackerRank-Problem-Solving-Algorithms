@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-12-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-116-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-13-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-126-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Kotlin-blue.svg">
 </p>
 
@@ -36,6 +36,7 @@ This repository contains the challenges of [Problem Solving (Algorithms)](https:
 | Warmup    | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/warmup/timeConversion/Solution.kt) | Easy | 15 | 15 |
 | Implementation    | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/implementation/gradingStudents/Solution.kt) | Easy | 10 | 10 |
 | Implementation    | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/implementation/appleAndOrange/Solution.kt) | Easy | 10 | 10 |
+| Implementation    | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/implementation/numberLineJumps/Solution.kt) | Easy | 10 | 10 |
 
 
 ## Author
