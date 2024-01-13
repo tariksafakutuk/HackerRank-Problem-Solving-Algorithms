@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-17-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-166-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-18-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-181-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Kotlin-blue.svg">
 </p>
 
@@ -31,6 +31,7 @@ This repository contains the challenges of [Problem Solving (Algorithms)](https:
 | Implementation    | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/implementation/breakingRecords/Solution.kt) | Easy | 10 | 10 |
 | Implementation    | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/implementation/subarrayDivision/Solution.kt) | Easy | 10 | 10 |
 | Implementation    | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/implementation/divisibleSumPairs/Solution.kt) | Easy | 10 | 10 |
+| Implementation    | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution.kt](https://github.com/tariksafakutuk/HackerRank-Problem-Solving-Algorithms/blob/master/src/main/kotlin/implementation/dayOfProgrammer/Solution.kt) | Easy | 15 | 15 |
 
 
 ## Author
